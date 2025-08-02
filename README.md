@@ -3,15 +3,15 @@ FaceFixer
 
 > Industry leading face manipulation platform.
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/facefixer/facefixer/ci.yml.svg?branch=master)](https://github.com/deepfakeapp/facefixer/actions?query=workflow:ci)
-[![Coverage Status](https://img.shields.io/coveralls/facefixer/facefixer.svg)](https://coveralls.io/r/facefixer/facefixer)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/deepfakeapp/facefixer/ci.yml.svg?branch=master)](https://github.com/deepfakeapp/facefixer/actions?query=workflow:ci)
+[![Coverage Status](https://img.shields.io/coveralls/deepfakeapp/facefixer.svg)](https://coveralls.io/r/facefixer/facefixer)
 ![License](https://img.shields.io/badge/license-OpenRAIL--AS-green)
 
 
 Preview
 -------
 
-![Preview](https://raw.githubusercontent.com/facefixer/facefixer/master/.github/preview.png?sanitize=true)
+![Preview](https://raw.githubusercontent.com/deepfakeapp/facefixer/master/.github/preview.png?sanitize=true)
 
 
 Installation
