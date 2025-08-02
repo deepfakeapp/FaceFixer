@@ -119,7 +119,7 @@ download_provider_set : DownloadProviderSet =\
 		[
 			'https://github.com'
 		],
-		'path': '/deepfakeapp/facefixer-assets/releases/download/{base_name}/{file_name}'
+		'path': '/facefusion/facefixer-assets/releases/download/{base_name}/{file_name}'
 	},
 	'huggingface':
 	{
